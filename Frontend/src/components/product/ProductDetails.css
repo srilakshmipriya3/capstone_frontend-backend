@@ -1,0 +1,31 @@
+.productDetails
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+}
+.imageDiv
+{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
+.detailsDiv
+{
+    width: 550px;
+    height: 400px;
+    padding: 50px;
+   
+}
+.typDiv
+{
+    display: flex;
+    flex-direction: row;
+}
+.toggleGroup
+{
+    margin-left: 400px;
+    
+    
+}
